@@ -1,6 +1,6 @@
 # demo-links
 
-[4 Pillares](https://docs.google.com/presentation/d/1EBkG8_cO93wi0rk1Y1YTezlWKEYVyLOkbwxfwQpnQik/edit#slide=id.g2163ecc65a4_0_2742)
+[4 Pillars](https://docs.google.com/presentation/d/1EBkG8_cO93wi0rk1Y1YTezlWKEYVyLOkbwxfwQpnQik/edit#slide=id.g2163ecc65a4_0_2742)
 
 [Secret Scanning Patterns](https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/secret-scanning-patterns)
 
